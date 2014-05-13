@@ -1,3 +1,4 @@
+# install xorg packages
 class xorg::install inherits xorg {
 
   package { 'xorg-server':

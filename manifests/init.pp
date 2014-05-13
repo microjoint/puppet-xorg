@@ -1,3 +1,4 @@
+#xorg class
 class xorg (
   $config_dir        = $xorg::params::config_dir,
   $config_dir_src    = $xorg::params::config_dir_src,
